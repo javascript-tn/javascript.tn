@@ -1,14 +1,11 @@
-import React from "react"
-import Helmet from "react-helmet"
-import styled from "styled-components"
+import React from "react";
+import Helmet from "react-helmet";
 
-import SEO from "../components/SEO/SEO"
-import config from "../../data/SiteConfig"
-import MainHeader from '../components/Layout/Header'
-import CtaButton from '../components/CtaButton'
+import SEO from "../components/SEO/SEO";
+import config from "../../data/SiteConfig";
+import MainHeader from "../components/Layout/Header";
 
 class Index extends React.Component {
-
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
@@ -22,13 +19,6 @@ class Index extends React.Component {
             location={this.props.location}
             logo={config.siteLogo}
           />
-          
-          {/* <BodyContainer>
-            <h2>A Gatsby Template for Content</h2>
-            <p>Made for modern documentation sites. Table of Contents automatically generated from markdown files. </p>
-            <CtaButton to={'/lesson-one'}>See Your First Post</CtaButton>
-          </BodyContainer>
-           */}
         </main>
       </div>
     );
@@ -37,21 +27,14 @@ class Index extends React.Component {
 
 export default Index;
 
-const BodyContainer = styled.div`
-  padding: ${props => props.theme.sitePadding};
-  max-width: ${props => props.theme.contentWidthLaptop};
-  margin: 0 auto;
-`
-
-
-/* eslint no-undef: "off"*/
+/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
-      edges { 
+      edges {
         node {
           fields {
             slug
