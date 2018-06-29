@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {FaGithubAlt, FaTwitter} from 'react-icons/lib/fa'
-import {MdMessage, MdEmail} from 'react-icons/lib/md'
+import {MdEmail} from 'react-icons/lib/md'
 import styled from 'styled-components'
 
 const Container = styled.div`
@@ -38,9 +38,6 @@ class UserLinks extends Component {
         <UserIcon href='https://twitter.com/moetezch'>
           <FaTwitter style={iconStyle} />
         </UserIcon>
-        {/* <UserIcon href="https://www.messenger.com/t/eric.windmill">
-          <MdMessage style={iconStyle} />
-        </UserIcon> */}
         <UserIcon href="mailto:moetez.chaabene@gmail.com">
           <MdEmail style={iconStyle} />
         </UserIcon>
