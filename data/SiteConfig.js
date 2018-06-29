@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: "تعلم الجافاسكريبت بالتونسي ", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   //siteFBAppID: "", // FB Application ID for using app insights
-  //googleAnalyticsID: "", // GA tracking ID.
+  googleAnalyticsID: "UA-121638167-1", // GA tracking ID.
   //disqusShortname: "https-ericwindmill-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "Moetez", // Username to display in the author segment.
