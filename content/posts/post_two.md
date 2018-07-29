@@ -1,85 +1,84 @@
 ---
-title: "post 2"
-cover: "https://unsplash.it/400/300/?random?BoldMage"
-date: "03/07/2018"
+title: "الجافاسكريبت ماكل الدنيا"
+cover: "https://thepracticaldev.s3.amazonaws.com/i/pqkphyocoy3vhl1wnrzg.png"
+date: "29/07/2018"
 category: "tech"
 type: "post"
-lesson: 3
+lesson: 1
 chapter: 2
 tags:
     - programming
-    - stuff
-    - other
+    - javscript
 ---
 
 
-الجافاسكريبت هي وحدة من أشهر لغات البرمجة فالعالم اليوم و يتم استخدامها على برشة منصات
+ما تقوليش مازلت مافيبالكش؟ هيا ملا نقلك إنو الجافاسكريبت و Node.js وحدهم مهيمنين على عالم برمجيات الكمبيوتر 
+NodeJS هي بيئة جافا سكريبت مفتوحة المصدر من جانب الخادم تعتمد على  محرك V8 JS الموجود في Google Chrome.بعد ما كنت فالول تتعتبر لغة برمجة غريبة ولات تو واحدة من أكثر اللغات إستعمالا في برمجة تطبيقات الويب و انتشرت حتى فالشركات.
+بش نعرض عليكم تو 5 من أكبر الشركات إلي ولات تتسخدم في Node js في مشاريعها
 
-تم انشاؤها في سنة 1995 كلغة برمجة نصية و كانو يستعملاها فقط للبرمجة التفاعلية على صفحات الويب أما تو تنجم تستعملها في برشة حاجات أخرى. يعني JS توا ولات لغة برمجة متنوعة و متطورة أكثر و زيد عندها العديد من المستخدمين. 
-
- علاش لازمك بالحق تستعمل الجافاسكريبت ؟  
-
-![alt text](https://cdn-images-1.medium.com/max/1600/0*i3sP64Go9KVVIne-. "Javascript")
+### 1.NETFLIX  
 
 
-### 1.ساهلة  
-سواء عندك خبرة سابقة فالبرمجة و إلا ما تعرف شيء، ساهل باش تتعلم الجافاسكريبت. بالطبيعة كان عندك خبرة سابقة باش يكون أسهل برشا خاطر الأساسيات قريبة ياسر.
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--L6N5I7Ln--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAjkAAAAJDBlMmY4MjNjLWViYTYtNGYyMi04OGNiLTU0NmUyZTA0YzNkZg.jpg "netflix")
 
-الجافاسكريبت مستعمل برشة مع HTML و CSS و مش صعيب تتعلمهم الزوز زادة باش توسع معرفتك و تطور مهاراتك   
+استعملت Nexflix جافا سكريبت و NodeJS لتحويل موقع الويب متعهم إلى تطبيق صفحة واحدة.
 
-![alt text](https://cdn-images-1.medium.com/max/1200/1*TiIKHgOZpvLDmUuwMGQE9w.png "if-else")![alt text](https://cdn-images-1.medium.com/max/1200/1*VfYCCVGTyZT87BeiMxWFOw.png "while-for")
+كانوا يستعملوا في Java أما كما قالت Trott "كي بدلنا datacenter لل cloud انتقلنا إلى service-based architecture". الشركة قاعدت تبدل في تطبيقة Java إلى مجموعة من الخدمات الصغيرة. بالرغم انو Java مازلت تستعمل فالواجهة الخلفية لكن كل شي يشوفو المستخدم جاي من Node بالإضافة إلى React js زادة 
 
-### 2.الجافاسكريبت تخدم على متصفح الإنترنت
-تنجم تبرمج بالجافاسكريبت على أي حاسوب. Android studio ينجم يقلق العباد إلي ما عندهاش حاسوب قوي، برمجة تطبيقات iOS ينجم ينجم يكون مشكل كبير خاطر تستحق MAC OS
-
-
-أما JS لا ، تنجم حتى تحل developer’s console متع متصفح الواب و تبدى تبرمج 
-
-![alt text](https://cdn-images-1.medium.com/max/1600/1*a0utPC8sIzlXBiCM2Bppwg.png "chrome dev tools")
-
-### 3.بلاش 
-تقريبا باش تتعلم الجافاسكريبت ما تستحق تدفع حتى فرنك :
-
-تنجم تخدم على محرر نصوص (text editor) بلاش ، المكتبات (libraries ) بلاش ، الهياكل (frameworks ) بلاش
-
-زادة فما برشا مصادر للتعلم مجانا كما يوتيوب،codeacademy، freecoecamp،w3schools
-
-مش صعيب بش تبدا مش هكا ؟ 
-
-###  4.مجتمع المبرمجين كبير
-
-الجافاسكريبت عندها شعبية واسعة عند المبرمجين. في إستطلاع للرأي أجري على 64 مبرمج من جميع أنحاء العالم في الموقع الشهير stack overflow ، ثبت أن الجافاسكريبت هو أشهر و أكثر لغة برمجة مستعملة حاليا.
-
-باش تاخو فكرة أكثر على قداش ضارب الجافاسكريبت  أعرف انتي إنو في stack overflow فما سؤال جديد على JS كل 3 ثواني.
-
-![alt text](https://cdn-images-1.medium.com/max/1600/1*EbS_F6FWrCWF3vucAv_XNA.png "Stack Overflow Survey Results")
-
-
-### 5.يخدم في أي بلاصة
-
-مل الأول تم تطوير الجافاسكريبت باش يخدم كان على متصفح الويب أما بعد ما طلع node.js في سنة 2009 كل شيء تبدل. توا JS يخدم على خادم الويب (web server)
-يعني JS ما عادش 
-
-![alt text](https://cdn-images-1.medium.com/max/1600/0*6Mv2NDFQbGEgnUb1.png "node.js")
-
-### 6.الهياكل و المكتبات (Frameworks and Libraries)
-
-من أحسن الحاجات فالجافاسكريبت توفر عديد الهياكل و المكتبات المفتوحة المصدر إلي يخلي برمجة تطبيقات بلغة الجافاسكريبت من أسهل ما فما.
-أي برنامج تتخيل تعملو فما هيكل يلبيلك احتياجاتك. تحب تعمل تطبيق أندرويد ؟ لا ما تتستحقش android studio تنجم ب React.js  
-
-تحب تطبيقة واب صفحة واحدة عندك Angular و إلا  Vue.js
-
-نتصور هذا يخلي JS من أكثر لغات البرمجة إلي لازم واحد باش يتعلمها في سنة 2018  
-![alt text](https://cdn-images-1.medium.com/max/1600/0*nuH3L25bitgn3HdW.jpg "Javascript frameworks")
+<figure class="video_container">
+  <iframe width="560" height="315"  src="https://www.youtube.com/embed/p74282nDMX8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 
-الجافاسكريبت أصبحت لغة برمجة مشهورة جدا و ما فماش وقت خير من تو باش واحد يتعلمها. فرص العمل ، سهولة التعلم و برشا حاجات أخرى تخليك تتعلم و تستعمل الجافاسكريبت في مشاريعك القادمة.
+### 2.Paypal
 
 
-فما آلاف الموقع وين تنجم تتعلم الجافاسكريبت منها موقعها إلي يعلمك بلهجتك التونسية
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--a66qcuN5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAdgAAAAJDg4ZDdhNWE4LTZiNzgtNDQ0ZS1iZDA1LTJhZjU4YzcwY2U5NA.jpg "paypal")
 
-ابدى و ماكش باش تندم   
+Paypal زادة قاعدة تنقل من Java للجافاسكريبت و Node بالنسبة لتطبيق الويب الخاص بهم.  Paypal بدا يستخدم في Node كنموذج أولي و كي أثبت فاعليتو قررو يجربوه فالإنتاج.
+أول إستخدام لل Node في Paypal مكانش تطبيق صغير بل كان صفحة المستخم إلي تعتبر واحدة  من أكثر التطبيقات إستخداما. كاحتياط طور فريق ال Paypal نفس الصفحة باستخدام  Java و أثبتت النتائج أن فريق جافا سكريبت كان قادرًا على بناء المنتج بشكل أسرع وأكثر كفاءة. و بعد قامت PayPal بإطلاق ملحق Open Source لـ ExpressJS سماتو [KrakenJS](http://krakenjs.com/) والذي يمكن من  إضافة طبقة إضافية من الأمان وقابلية للترقية إلى سرفير NodeJS.
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-00ImeLt9ec" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</figure>
 
 
-رابط المقال الأصلي : https://medium.com/@Prashacharya/should-you-learn-javascript-in-2018-dd61cc777bba
+### 3.Uber
+![alt text](https://img.etsystatic.com/il/b5445c/1329524393/il_570xN.1329524393_94z4.jpg?version=0 "uber")
+
+قامت Uber ببناء نظام السائق / الراكب إستنادا على Node.js Distributed Web Architecture. تنجم تسمع  Tom Crouche و هو أحد أكبر المهندسين  فالفيدو أدناه يحكي  عن كيفية استخدام Node.js في Uber و كيفاش إنو النمو المستقبلي يتطلب من  المجتمع إنو يرفع من سقف التوقعات ل Node js 
+تعد صفحة GitHub متع Uber أيضا مصدرًا جيدًا لمعرفة المزيد حول أنظمة الشركة المهمة
+
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElI5QtUISWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</figure>
+
+
+### 4.IBM
+
+
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--h_aI_oIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgGAAAAJGRhZDk3ZmM3LTRlOTctNDE5Zi1hY2IwLTUxMWZhMDU5MWJjYg.jpg "ibm")
+
+IBM ما كانتش من العاكسين، هو شقال  Myles Borins من شركة IBM عن تجربتو في المؤتمر الماضي للند : في شهر أكتوبر 2015 تم تكليفي بالعمل على The Canary in the Gold Mine و هي أداة إختبار تقوم تلقائيا باجراء الإختبارات لمختلف الوحدات في نظام Node JS و نجحت الحكاية برشة 
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8is8iKlo8oQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</figure>
+
+
+### 5.Microsoft
+
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--0Zg8JYc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgtAAAAJGFjNGM1MjFkLTJjNmQtNDM0NC04MDAwLTI5MWExMWZiNDM4Mw.jpg "microsoft")
+
+حتى من مايكروسوفت تبنات Node و دمجتو ة في منصة Azure الخاصة بيها ، وأصدرت الكثير من البرامج التعليمية لل Node ، كما أعلنت عن خطط لتعديل المشروع وبناء نسخة خاصة بها من Node مدعومة بمحرك Edge Javascript بدلاً من V8 متع Chrome
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSBZIoLWJQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</figure>
+
+
+مترجم بتصرف عن : 
+
+https://dev.to/anthonydelgado/javascript-is-eating-the-world

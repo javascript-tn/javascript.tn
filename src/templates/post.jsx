@@ -1,7 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import styled from "styled-components"
-
+import SiteHeader from '../components/Layout/Header'
 import UserInfo from "../components/UserInfo";
 import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
@@ -32,6 +32,9 @@ export default class PostTemplate extends React.Component {
           <title>{`${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
+        <HeaderContainer>
+        <SiteHeader location={this.props.location} />
+      </HeaderContainer>
         <BodyContainer>
           <h1>
             {post.title}
@@ -48,6 +51,11 @@ export default class PostTemplate extends React.Component {
     );
   }
 }
+const HeaderContainer = styled.div`
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
+  z-index: 2;
+`
 
 /* eslint no-undef: "off"*/
 export const pageQuery = graphql`
