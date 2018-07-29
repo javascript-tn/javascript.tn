@@ -21,7 +21,7 @@ class Index extends React.Component {
             location={this.props.location}
             logo={config.siteLogo}
           />
-          {postEdges.map(({node})=>{
+          {postEdges.reverse().map(({node})=>{
            // console.log(node.excerpt);
             
            // console.log(node);
