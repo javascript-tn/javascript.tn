@@ -21,17 +21,17 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/moetezch",
+      url: "https://github.com/javascript-tn",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/moetezch",
+      url: "https://twitter.com/JavascriptTn",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "moetez.chaabene@gmail.com",
+      url: "contact@javascript.tn",
       iconClassName: "fa fa-envelope"
     }
 
