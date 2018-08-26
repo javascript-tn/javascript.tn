@@ -32,13 +32,13 @@ class UserLinks extends Component {
   render() {
     return (
       <Container className="user-links">
-        <UserIcon href='https://github.com/moetezch'>
+        <UserIcon href='https://github.com/javascript-tn'>
           <FaGithubAlt style={iconStyle} />
         </UserIcon>
-        <UserIcon href='https://twitter.com/moetezch'>
+        <UserIcon href='https://twitter.com/JavascriptTn'>
           <FaTwitter style={iconStyle} />
         </UserIcon>
-        <UserIcon href="mailto:moetez.chaabene@gmail.com">
+        <UserIcon href="mailto:contact@javascript.tn">
           <MdEmail style={iconStyle} />
         </UserIcon>
       </Container>
